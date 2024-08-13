@@ -5,7 +5,7 @@
 ### Overview
 For our semester-end project, we developed a Google Gemini-powered file manager that simplifies file management. It swiftly organizes large folders, creates nested folders using natural language commands, and sends files directly via email. Additionally, it can generate custom outputs with Google Gemini, ready to attach to emails.
 
-![193shots_so](https://github.com/user-attachments/assets/d18a7a77-8d5a-43c0-8cba-0ea9856f8d59)
+![Screenshot 2024-08-13 at 22 36 40](https://github.com/user-attachments/assets/6888b451-2688-4641-9dd8-1aba2e9c3ade)
 
 ## Commands
 #### CREATING
@@ -29,3 +29,5 @@ For our semester-end project, we developed a Google Gemini-powered file manager 
     - Generate prompt (to create a prompt using Google Gemini)
     - Write response to file <filename> (saves the response as a text file in the current project directory)
     - Send response to <email/icloud> (to email the generated response)
+
+![Screenshot 2024-08-13 at 22 37 22](https://github.com/user-attachments/assets/2af4193a-4dab-432a-8a31-cbbf6cda2697)
