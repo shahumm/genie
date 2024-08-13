@@ -1,4 +1,4 @@
-# Genie: A Google Gemini-powered File Management System
+# GENIE: An AI-powered File Management System
 
 <img src="https://github.com/user-attachments/assets/df725480-406f-49ef-8d1a-588877c23d39" alt="Gemini-Logo" width="150"/>
 
